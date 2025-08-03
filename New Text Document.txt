@@ -1,0 +1,6 @@
+Understanding Temporal Hotspots of Population Growth Using WorldPop Data and ArcGIS Pro’s Space-Time Pattern Mining
+
+
+https://data.humdata.org/organization/worldpop?groups=nga
+https://data.humdata.org/dataset/worldpop-population-counts-2015-2030-nga
+https://data.humdata.org/dataset/worldpop-age-and-gender-structures-2015-2030-nga
